@@ -1,0 +1,65 @@
+
+# Blockchain Basics
+
+## 1. What Is a Blockchain?
+
+A blockchain is a type of digital ledger that records transactions or other data in groups called blocks. These blocks are linked together using cryptographic techniques, making changes to previously recorded information detectable.
+
+Many blockchains are maintained by a network of computers rather than a single central authority.
+
+## 2. How Does a Blockchain Work?
+
+A simplified explanation:
+
+1. A user initiates a transaction.
+2. The transaction is shared with the network.
+3. Network participants validate it according to the blockchain's rules.
+4. Valid transactions are included in a block.
+5. The block is added to the chain through the network's consensus process.
+6. Participants update their records to reflect the accepted transaction.
+
+The exact process varies between blockchains.
+
+## 3. Key Concepts
+
+- **Block:** A collection of transactions or other recorded data.
+- **Chain:** The ordered connection between blocks.
+- **Node:** A computer or software instance participating in a blockchain network.
+- **Consensus:** The process a network uses to agree on valid records or the next state of the blockchain.
+- **Decentralization:** Distributing control or responsibility across multiple participants rather than relying entirely on one central authority.
+- **Cryptographic hash:** A mathematical output used to identify data and help detect changes.
+
+## 4. Why Does Blockchain Matter?
+
+Blockchain technology can support:
+
+- Digital asset transfers.
+- Decentralized applications.
+- Smart contracts.
+- Transparent records and coordination.
+- New ways to build financial and digital services.
+
+However, blockchain systems can also face security vulnerabilities, privacy challenges, scalability limitations, and transaction fees.
+
+## 5. Blockchain and Web3
+
+Blockchain is one of the technologies used in Web3. Web3 broadly refers to an evolving ecosystem of applications and services built around ideas such as decentralized networks, digital ownership, and user participation.
+
+Not every Web3 application is fully decentralized, and not every blockchain project provides the same level of transparency or security.
+
+## 6. What I Learned
+
+This is my first note in my Web3 learning journey. I learned that a blockchain is more than cryptocurrency: it is a way to maintain a shared digital record using cryptography and network agreement.
+
+My next step is to understand how cryptocurrency wallets, public keys, private keys, and blockchain transactions work.
+
+## 7. Questions to Explore
+
+- What is the difference between Proof of Work and Proof of Stake?
+- How does a cryptocurrency wallet work?
+- What are gas fees?
+- How do smart contracts execute?
+
+---
+
+*WEB3 ABBAS | Learning in public. Building what I learn.*
