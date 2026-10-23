@@ -30,6 +30,9 @@ I'll document each topic as I study it, including key concepts, practical exampl
 
 - [Blockchain Basics](notes/blockchain-basics.md) — An introduction to blockchain, blocks, nodes, consensus, and Web3.
 
+- [Cryptocurrency Wallets and Keys](notes/crypto-wallets-and-keys.md) — Learn about wallets, public keys, private keys, recovery phrases, and security.
+
+
 ## 🛠️ Projects
 
 This section will grow as I complete practical exercises and create beginner-friendly Web3 projects.
