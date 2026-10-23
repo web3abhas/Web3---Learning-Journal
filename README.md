@@ -28,6 +28,8 @@ My goal is to learn consistently, share useful knowledge, and gradually turn the
 
 I'll document each topic as I study it, including key concepts, practical examples, useful resources, and lessons learned.
 
+- [Blockchain Basics](notes/blockchain-basics.md) — An introduction to blockchain, blocks, nodes, consensus, and Web3.
+
 ## 🛠️ Projects
 
 This section will grow as I complete practical exercises and create beginner-friendly Web3 projects.
